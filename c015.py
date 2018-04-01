@@ -10,7 +10,7 @@
 score = int(input("input score:\n"))
 if score >= 90:
     grade = 'A'
-elif 60 <= score <=89:
+elif 60 <= score <= 89:
     grade = 'B'
 else:
     grade = 'C'
